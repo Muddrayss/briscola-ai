@@ -1,0 +1,8 @@
+numpy
+gymnasium
+pydantic
+rich
+tqdm
+opencv-python
+mss
+PySide6

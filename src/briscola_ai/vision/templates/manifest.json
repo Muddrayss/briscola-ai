@@ -1,0 +1,164 @@
+{
+  "full": {
+    "bastoni_2.png": {
+      "suit": "bastoni",
+      "rank": "2"
+    },
+    "bastoni_3.png": {
+      "suit": "bastoni",
+      "rank": "3"
+    },
+    "bastoni_4.png": {
+      "suit": "bastoni",
+      "rank": "4"
+    },
+    "bastoni_5.png": {
+      "suit": "bastoni",
+      "rank": "5"
+    },
+    "bastoni_6.png": {
+      "suit": "bastoni",
+      "rank": "6"
+    },
+    "bastoni_7.png": {
+      "suit": "bastoni",
+      "rank": "7"
+    },
+    "bastoni_A.png": {
+      "suit": "bastoni",
+      "rank": "A"
+    },
+    "bastoni_C.png": {
+      "suit": "bastoni",
+      "rank": "C"
+    },
+    "bastoni_F.png": {
+      "suit": "bastoni",
+      "rank": "F"
+    },
+    "bastoni_K.png": {
+      "suit": "bastoni",
+      "rank": "K"
+    },
+    "coppe_2.png": {
+      "suit": "coppe",
+      "rank": "2"
+    },
+    "coppe_3.png": {
+      "suit": "coppe",
+      "rank": "3"
+    },
+    "coppe_4.png": {
+      "suit": "coppe",
+      "rank": "4"
+    },
+    "coppe_5.png": {
+      "suit": "coppe",
+      "rank": "5"
+    },
+    "coppe_6.png": {
+      "suit": "coppe",
+      "rank": "6"
+    },
+    "coppe_7.png": {
+      "suit": "coppe",
+      "rank": "7"
+    },
+    "coppe_A.png": {
+      "suit": "coppe",
+      "rank": "A"
+    },
+    "coppe_C.png": {
+      "suit": "coppe",
+      "rank": "C"
+    },
+    "coppe_F.png": {
+      "suit": "coppe",
+      "rank": "F"
+    },
+    "coppe_K.png": {
+      "suit": "coppe",
+      "rank": "K"
+    },
+    "denari_2.png": {
+      "suit": "denari",
+      "rank": "2"
+    },
+    "denari_3.png": {
+      "suit": "denari",
+      "rank": "3"
+    },
+    "denari_4.png": {
+      "suit": "denari",
+      "rank": "4"
+    },
+    "denari_5.png": {
+      "suit": "denari",
+      "rank": "5"
+    },
+    "denari_6.png": {
+      "suit": "denari",
+      "rank": "6"
+    },
+    "denari_7.png": {
+      "suit": "denari",
+      "rank": "7"
+    },
+    "denari_A.png": {
+      "suit": "denari",
+      "rank": "A"
+    },
+    "denari_C.png": {
+      "suit": "denari",
+      "rank": "C"
+    },
+    "denari_F.png": {
+      "suit": "denari",
+      "rank": "F"
+    },
+    "denari_K.png": {
+      "suit": "denari",
+      "rank": "K"
+    },
+    "spade_2.png": {
+      "suit": "spade",
+      "rank": "2"
+    },
+    "spade_3.png": {
+      "suit": "spade",
+      "rank": "3"
+    },
+    "spade_4.png": {
+      "suit": "spade",
+      "rank": "4"
+    },
+    "spade_5.png": {
+      "suit": "spade",
+      "rank": "5"
+    },
+    "spade_6.png": {
+      "suit": "spade",
+      "rank": "6"
+    },
+    "spade_7.png": {
+      "suit": "spade",
+      "rank": "7"
+    },
+    "spade_A.png": {
+      "suit": "spade",
+      "rank": "A"
+    },
+    "spade_C.png": {
+      "suit": "spade",
+      "rank": "C"
+    },
+    "spade_F.png": {
+      "suit": "spade",
+      "rank": "F"
+    },
+    "spade_K.png": {
+      "suit": "spade",
+      "rank": "K"
+    }
+  }
+}
